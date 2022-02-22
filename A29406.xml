@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of the nullity of King James's title and of the obligation of the present oaths of allegiance</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29406</idno>
+            <idno type="STC">Wing B4512</idno>
+            <idno type="STC">ESTC R21834</idno>
+            <idno type="EEBO-CITATION">12226983</idno>
+            <idno type="OCLC">ocm 12226983</idno>
+            <idno type="VID">56576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56576)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 56:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of the nullity of King James's title and of the obligation of the present oaths of allegiance</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd July 27, 1689. J. Fraser"</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Freedom of religion --  England.</term>
+               <term>Loyalty oaths --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56576:1" rendition="simple:additions"/>
+            <pb facs="tcp:56576:1" rendition="simple:additions"/>
+            <p>A BRIEF ACCOUNT OF THE NULLITY OF <hi>King Iames's Title,</hi> And of the OBLIGATION OF THE Preſent OATHS of ALLEGIANCE.</p>
+            <p>
+               <hi>Drawn up for Private Satisfaction.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENS'D,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>July</hi> 27. 1689.</date>
+                           </dateline>
+                           <signed>J. Fraſer.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s <hi>Church yard,</hi> MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56576:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:56576:2"/>
+            <head>A BRIEF ACCOUNT OF THE NULLITY OF King JAMES'S Title, &amp;c.</head>
+            <p>THAT King <hi>James</hi> was King <hi>de facto</hi> is denied by none. That he had ſome ground of Claim by vertue of his Natural Inheritance, is no leſs confeſſed; and that he might have anſwered the Ends of Government if he had made good his Promiſes, is on all hands acknowledged: all which might ſerve to juſtifie that Allegiance which for the time was paid to him.</p>
+            <p>The great Queſtion before us, is, Whether thoſe de<g ref="char:EOLhyphen"/>ſtructive Principles and Undertakings, which he after<g ref="char:EOLhyphen"/>wards openly eſpouſed, ſo much contrary to his Promiſes, did not render him uncapable of the Government, according to the Fundamental Laws of this Land?</p>
+            <p>That we may have a clear account of this Queſtion, we need only enquire,</p>
+            <p>
+               <hi>Firſt,</hi> What are the Fundamental Laws of this Land, with reference to the Power and Prerogative of the King, and the Liberties of the People?</p>
+            <pb n="2" facs="tcp:56576:3" rendition="simple:additions"/>
+            <p>
+               <hi>Secondly,</hi> How great is the over-ruling force and obliga<g ref="char:EOLhyphen"/>tion of them? And,</p>
+            <p>
+               <hi>Laſtly,</hi> What were the avowed Principles and Practices of the late King?</p>
+            <p>From which Premiſes it will be eaſie to demonſtrate ac<g ref="char:EOLhyphen"/>cording to the known Conſtitution of the Engliſh Govern<g ref="char:EOLhyphen"/>ment, That a Perſon of ſuch Principles and Undertakings muſt be utterly, unqualified and incapacitated by the very Fundamental Laws, for the Management of this Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>
+               <hi>Firſt,</hi> That we may clearly diſcern what are the Fun<g ref="char:EOLhyphen"/>damental Laws of this Land, we may conſider in <hi>general</hi> what are the Fundamental Laws of all Government; and thence we may deſcend to conſider more particularly what are the Fundamental Laws of this Land.</p>
+            <p>As it is granted on all hands, That Government is eſta<g ref="char:EOLhyphen"/>bliſhed by the Light of Nature; ſo there need no poſi<g ref="char:EOLhyphen"/>tive Edicts or Statutes to ſhew what are the Fundamental Laws of it. But theſe are diſcernable by the Light of Na<g ref="char:EOLhyphen"/>ture, and upon theſe prime Laws of Nature all poſitive humane Laws are ſuperſtructed.</p>
+            <p>As Nature has taught that there ſhould be ſome Govern<g ref="char:EOLhyphen"/>ment, a Sovereign Power, and a Political Head in all Soci<g ref="char:EOLhyphen"/>eties; ſo the ſame Natural Reaſon has taught, That all the Eſſentials of this Sovereign Power, which may be called the <hi>Regalia,</hi> ſhould therein be eſtabliſhed, and thoſe Laws by which they are eſtabliſhed, may be called Fundamental Laws.</p>
+            <p>The Prime Eſſentials of the Sovereign Power of each Political Head, as the Holy Scripture intimates, <hi>Epheſ.</hi> 4. are the ſame in kind with thoſe that appertain to the Head of a Natural Body, which are, To preſcribe Rules for the Direction of all the Members; To ſee that thoſe Rules be put in Execution; To examine and take cogni<g ref="char:EOLhyphen"/>zance of all Actions, and to give ſentence accordingly: To diſpenſe by certain Nerves and Joints, the common nouriſhment for the ſuſtenance of all the parts; and to employ the Force of the whole Body for the common defence.</p>
+            <pb n="3" facs="tcp:56576:3"/>
+            <p>Accordingly we find it is the Office of the Sovereign Power in any Nation; to preſcribe in matters of Faith and ſpeculation (according to the Rule of God's Word) what Doctrines ſhould be eſteemed as Orthodox, and what to be condemned as Impious and Heretical. Alſo to appoint ſuch Eccleſiaſtical Officers as might have inſpection over thoſe that are to teach the ſame Doctrines, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n matters of Practice to preſcribe ſuch Laws as ought to be obſerved in order to the Common Good. To appoint Judges and other Civil Officers, who might take cognizance upon all occaſions of all Citizens and Members, who might give ſentence upon them according to Law, and by whom the ſaid ſentence might be put in Execution. To have the Power of the Militia, and to exerciſe the Force of a Nation for the de<g ref="char:EOLhyphen"/>fence of it againſt Domeſtick or Foreign Enemies. Laſt<g ref="char:EOLhyphen"/>ly, To command the Publick Revenues, to raiſe Taxes and Tribute, and to diſpoſe the wealth of any Nation for the common ſupport and ſuſtenance of all the Members.</p>
+            <p>This is the account of Fundamental Laws in general; By which all the parts of Sovereign Power are eſtabliſhed, <hi>which are ſomewhere to be found in every Form of Government.</hi>
+            </p>
+            <p>Thoſe may be ſaid to be the <hi>particular</hi> Fundamental Laws of any Nation, by which it appears in whoſe hands all the parts of the Sovereign Power are depoſited, and in what manner it is to be executed: By which the Au<g ref="char:EOLhyphen"/>thority and Prerogative of the Prince, and likewiſe the Rights and Liberties of the People are declared.</p>
+            <p>Thus if we proceed to conſider the Fundamental Laws of the Engliſh Government, we may perceive they are framed with that happy Temperament as might be apt to render our Princes moſt glorious and honourable, and the People moſt happy. Our Good and Wiſe Anceſtors have ſo diſpoſed the Sovereign Authority, that our Kings ſhould have no Power to do Wrong or Miſchief, and they ſhould want no Power to do good<g ref="char:punc">▪</g> The People ſhould not be obnoxious to any unjuſt Arbitrary Empire, and yet withal they ſhould be ſufficiently reſtrained from unbridled Vice and Licentiouſneſs.</p>
+            <pb n="4" facs="tcp:56576:4"/>
+            <p>To this end it has been thought reaſonable, That the whole Legiſlative power ſhould not be lodged in the Hands of the King only: But the People require to be governed as becomes reaſonable Creatures. And herein their Liberty does chiefly conſiſt, that they can be <hi>obliged by no Laws, but ſuch as themſelves approve</hi> and judge moſt meet for the common good. This is the Prime Funda<g ref="char:EOLhyphen"/>mental Law, That the Law of God ſhould be owned as ſupream; That no <hi>Doctrines of Religion</hi> ſhould be impoſed but ſuch as the People may perceive, and by their Re<g ref="char:EOLhyphen"/>preſentatives acknowledge as being conformable to the Divine Law; That the People ſhould enjoy the <hi>ſafe poſſeſſion of their Lives and Eſtates</hi> in ſuch manner as the Law preſcribes; That the <hi>Wealth</hi> of the Nation ſhould be no otherwiſe diſpoſed but as themſelves allow by their Repreſentatives in Parliament; And that <hi>ſentence of Law</hi> ſhould be pronounced againſt them, not according to the ſole Opinion of His Majeſty's Judges, but with the joint <hi>Verdict</hi> of their fellow-Subjects and Citizens.</p>
+            <p>Theſe are the Prime Laws which concern the Rights and Liberties of the People. In reſpect of the Prince, it is his great Prerogative to enjoy all Power that might be uſeful to put theſe Laws in execution for the common good and happineſs of himſelf and his People. To this End he has a <hi>Negative Voice</hi> in making all Laws to be em<g ref="char:EOLhyphen"/>ployed by the advice of his Council appointed for that and the like purpoſes, leſt at any time a licentious Faction ſhould diſable him to anſwer the neceſſary Ends of Government. He appoints all <hi>Judges and other Officers</hi> who are concerned to execute the Laws in all Civil mat<g ref="char:EOLhyphen"/>ters. He appoints thoſe <hi>Eccleſiaſtical Officers</hi> who are to execute thoſe Laws which have reference to Religion. He has the diſpoſal <hi>of all Arms,</hi> and the Power of the Militia for the defence of the Government; By which Power of diſpoſing all the Principal Offices Eccleſiaſtical, Civil and Military, (if he approves himſelf ſincere and faithful to his own and the Publick Intereſt and Honour) he cannot eaſily fail to eſtabliſh his Authority ſo ſecurely
+<pb n="5" facs="tcp:56576:4"/> that he may command all the Force of a Nation for his Service.</p>
+            <p>But that it may appear, This Power of <hi>diſpoſing all Magi<g ref="char:EOLhyphen"/>ſtrates was deſigned purely in order to the Publick Good;</hi> All thoſe Magiſtrates which he appoints, are ſworn to execute their Offices ſtrictly, according to Law, though it be contrary to the perſonal <hi>Commands of the Prince.</hi> The Law over-rules all thoſe Commiſſions which he grants contrary to it ſelf; and his Miniſters ſhall be puniſh'd, as Betrayers of the Pub<g ref="char:EOLhyphen"/>lick Weal, if they execute any of his private Commands contrary to Law.</p>
+            <p>This is the ſhort account of the Fundamental Laws of this Land, which are antecedent to all Statute-Laws, the <hi>prime Branches of our Common Law;</hi> which are to be ſeen by the conſtant <hi>Practices, Cuſtoms,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſages</hi> in the Adminiſtra<g ref="char:EOLhyphen"/>tion of our Government.</p>
+            <p>In the next place, if we conſider the great Authority of theſe Laws, the very nature of the thing requires, that they ſhould <hi>over rule all other Laws,</hi> which were made only to be <hi>ſubſervient to 'em;</hi> by which the great Ends of Government are ſupported. Therefore the Harmony and Analogy of our Conſtitution requires, That all other Laws ſhould be conſtru'd in a ſenſe conſiſtent and agreeable to theſe Laws. Therefore it is confeſſed by Lawyers and Politicians, That the <hi>Reaſon of State is the Rule and Mea<g ref="char:EOLhyphen"/>ſure of all Laws.</hi> Upon this account it is declared, <hi>That all Acts and Statutes ſhall be null, which are contrary to Mag. Charta, cap. ult. &amp;</hi> 42 <hi>Ed.</hi> 3. <hi>c.</hi> 1. Though that Charter contains only the principal heads of Caution againſt ſuch Abuſes as might tend to the ſubverſion of theſe Fundamental Laws; for the ſame reaſon it is de<g ref="char:EOLhyphen"/>clared, That <hi>the King can make no Act, which ſhould tend to his own Diſinheriſon;</hi> becauſe it is ſuppoſed, the great Council of the Nation is called together, to conſult of the beſt means to ſecure the preſent Government, not to reduce it to a Democracy. Therefore, whatever the Terms of any Statute may be, neither the King, nor that Council are ſuppoſed to deſign his Diſinheriſon.</p>
+            <p>And for the ſame Reaſon, if the Members of Par<g ref="char:EOLhyphen"/>liament, endeavouring to prevent Faction, ſhould paſs any
+<pb n="6" facs="tcp:56576:5"/> Acts which might ſeem to <hi>tend to the enſlaving of the Peo<g ref="char:EOLhyphen"/>ple,</hi> ſuch Statutes ſhall be ſo far null, or they ſhall be conſtrued in ſuch a qualify'd ſence, as may be conſiſtent with the Fundamental Laws; becauſe otherwiſe this would be no leſs deſtructive of the Government than the former. And the People are ſuppoſed not to deſign any ſuch change of Government, that their Lives and Fortunes be dependent purely at pleaſure, but rather <hi>that the Government ſhould be diſſolved, than that they ſhould be obliged to accept ſuch intolerable Conditions of it.</hi> Which further appears, becauſe not only they, but even the Princes themſelves, have ſtill acknowledged, That the Government has all along conti<g ref="char:EOLhyphen"/>nued the ſame.</p>
+            <p>This is the account of the great Authority of theſe Fundamental Laws, by which the Rights and Liberties of the People are eſtabliſh'd; by which the power of the Prince is moſt happily directed and limited; <hi>And ſo, into poſſible it is, that any of our Princes ſhould have any Right or Power, but what they may claim by theſe Laws, that we have not ſo much as the Being of a Body Politick, but by vertue of the ſame Laws.</hi> Therefore the ſame Laws which beſtow the very Eſſence of the Body Politick, do likewiſe p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſcribe the Eſſential Qualifications of the Prince, or Politi<g ref="char:EOLhyphen"/>cal Head of it.</p>
+            <p>From whence we may ſee, in ſhort the definitive ac<g ref="char:EOLhyphen"/>count of an Engliſh Monarch, That he muſt be ſuch a Le<g ref="char:EOLhyphen"/>gal Heir of the Royal Family, who is willing to exer<g ref="char:EOLhyphen"/>ciſe the Soveraign Power according to the direction of the Fundamental Laws, for the preſervation of his own Pre<g ref="char:EOLhyphen"/>rogative and the due Rights of the People in order to the Publick Good. And when by the conſtant Tenour of his actions he makes it appear, That he is obſtinately bent not to accept of <hi>ſuch a Legal Power</hi> he does there<g ref="char:EOLhyphen"/>by demonſtrate, that he has <hi>renounc'd the Government</hi> and has deveſted himſelf of all Power and Authority.</p>
+            <p>Now, if we conſider, in the laſt place the Principles and Undertakings of King <hi>James,</hi> nothing can be more notorious, than that he was averſe to ſuch a Legal Pow<g ref="char:EOLhyphen"/>er, and utterly uncapable of it: For he did declare
+<pb n="7" facs="tcp:56576:5"/> himſelf a zealous Member of a foreign Church and Socie<g ref="char:EOLhyphen"/>ty, which were the declared Enemies of our Government; by whoſe Canons he was obliged to deſtroy our Laws, and root out all the Lawful Members of the Government, as Hereticks. He was oblig'd to change our Conſtitution, by vertue of which he enjoyed his Power, to deſtroy our Laws, and with them our Liberty and Property, and his own Legal Authority, to make himſelf <hi>Abſolute</hi> and <hi>Arbitrary,</hi> and all out Lives and Fortunes dependent upon his pleaſure.</p>
+            <p>So that we ſee, in <hi>Speculation,</hi> the Eſſential Qualifica<g ref="char:EOLhyphen"/>tions of an Engliſh Monarch could not be found in him; his Principles were utterly oppoſite and inconſiſtent; &amp; there<g ref="char:EOLhyphen"/>fore it is ſelf-evident, he was uncapable to be the true and Rightful King or Head of this Political Body.</p>
+            <p>The ſame did appear no leſs evident in <hi>Practice</hi> than <hi>Speculation;</hi> for it is manifeſt in all his Undertakings, he went quite <hi>Counter to the Fundamental Inſtitution</hi> of an En<g ref="char:EOLhyphen"/>gliſh Monarch: Inſtead of <hi>maintaining our Laws,</hi> he uſur<g ref="char:EOLhyphen"/>ped a Power to <hi>ſuſpend and null them:</hi> Inſtead of <hi>preſer<g ref="char:EOLhyphen"/>ving</hi> the true courſe of <hi>Judicature,</hi> he appointed ſuch as were <hi>Enemies</hi> of the Conſtitution to be <hi>Judges,</hi> and <hi>Jurors,</hi> and <hi>Officers,</hi> to paſs unjuſt Sentences upon the Legal Mem<g ref="char:EOLhyphen"/>bers, and to execute the ſame. Inſtead of <hi>defending our Faith</hi> and <hi>Religion</hi> eſtabliſhed by Law, he was reſolved to obtrude another that was <hi>deſtructive</hi> of it. Inſtead of ap<g ref="char:EOLhyphen"/>pointing Magiſtrates, Eccleſiaſtical and Civil, that ſhould be duly ſworn, and zealous to maintain the Laws of Church and State, he was reſolved to conſtitute none but ſuch as were the profeſſed Enemies, or ſuch as he expe<g ref="char:EOLhyphen"/>cted would prove the <hi>Betrayers</hi> of them, who ſhould uſe all Arts of fraud and force to pervert the People and undermine the Laws. Inſtead of imploying the Militia for the <hi>defence</hi> of the People, his Enterprizes were notorious, whereby he endeavoured to <hi>enſlave</hi> them. He accepted no Taxes in the <hi>ordinary courſe of Law,</hi> and to anſwer the ends of it; but waited an opportunity to make him<g ref="char:EOLhyphen"/>ſelf <hi>Maſter of all the Eſtates and Wealth</hi> of the Nation. In ſhort, he was oblig'd by his Principles, and wholly bent, in all his Endeavours, to deſtroy all the <hi>proper Re<g ref="char:EOLhyphen"/>galia of the Engliſh Monarchy.</hi> His actions did loudly de<g ref="char:EOLhyphen"/>clare,
+<pb n="8" facs="tcp:56576:6"/> That he renounc'd all Authority allowed him by the Fundamental Conſtitution. He depended altogether upon a Power which he expected to gain by force; upon which ac<g ref="char:EOLhyphen"/>count he might be oppos'd in all ſuch hoſtile Enterprizes, no leſs than any other open Invader.</p>
+            <p>By this means we find the <hi>Legal Government</hi> did, for the time, <hi>expire.</hi> His Commands were in a Language ſtrange and unknown to our Laws, to which therefore none were bound to pay Allegiance. His Magiſtrates, ſuch as had no Union or Communion with the lawful Members of the King<g ref="char:EOLhyphen"/>dom, which might not therefore be moved or acted by them; inſomuch as the Body Politick lay, as it were, a lifeleſs Car<g ref="char:EOLhyphen"/>caſs, as tho' we had been diſſolved into an aggregate Multi<g ref="char:EOLhyphen"/>tude, having no common Intereſts, nor any proper Methods to purſue them by, reduced as it were to a ſtate of Anarchy and Confuſion.</p>
+            <p>Therefore it muſt be concluded, That when he <hi>firſt embraced</hi> theſe Principles, he became <hi>uncapable</hi> of our Legal Govern<g ref="char:EOLhyphen"/>ment, which he did thereby vertually renounce; and when he <hi>firſt made his Deſigns public,</hi> he likewiſe <hi>made it appear how little Allegiance</hi> was due to him.</p>
+            <p>No man can be inveſted with any Authority, but by his own conſent; and when it appears, that he will not accept of that Authority which is conſiſtent with the Conſtitution, he at the ſame time diſclaims all thoſe <hi>Prerogatives</hi> that are an<g ref="char:EOLhyphen"/>nex'd to that Authority.</p>
+            <p>If our Fundamental Laws require themſelves to be obſerved beyond all other Laws, they muſt needs invalidate all ſuch Pleas as might be brought from any other Laws, in the behalf of ſuch a perſon, which might prove deſtructive of them<g ref="char:EOLhyphen"/>ſelves; they can no more beſtow or approve the Govern<g ref="char:EOLhyphen"/>ment of ſuch a perſon, than they can require or approve the ſubverſion of that Politie which they eſtabliſh, or con<g ref="char:EOLhyphen"/>tradictions can conſiſt together.</p>
+            <p>If a total Anarchy, or ſuſpenſe of Government, be in<g ref="char:EOLhyphen"/>conſiſtent with our Laws, much more ſuch a Monarch, who will not only not execute, but is reſolved to cancel them.</p>
+            <p>It is impoſſible to conceive an attempt of a more publick Robbery or tragical Miſchief than this, That one man ſhould make himſelf Maſter of the Lives and Fortunes of a whole Na<g ref="char:EOLhyphen"/>tion,
+<pb n="9" facs="tcp:56576:6"/> which he ſhould by his Principles be obliged to deſtroy.</p>
+            <p>This is ſo great a Change, or rather Deſtruction, of our Go<g ref="char:EOLhyphen"/>vernment, as nothing could be greater. If a Duke of <hi>Venice</hi> ſhould go about to make himſelf a Legal Monarch to eſtabliſh the Government in his Family, to be adminiſtred according to Law; the Change had been inſenſible, in compariſon of this, when a free People are wholly enſlav'd, and are made Tenants at Will for all their Goods and Poſſeſſions. If it would be lawful to defend the Rights of the Republick, againſt the Uſurpations of the one kind; it would be much more ſo, to defend our Rights againſt the other, which are far greater.</p>
+            <p>And ſo far is this Change from being feigned, that our Enemies did not only project our Ruin, but rather did openly triumph in the expectation of it.</p>
+            <p>From all which, we ſee the demonſtrative Evidence of this Argument: Whoſoever lives amongſt us, cannot but know our Fundamental Laws and Cuſtoms, which by no means allow, but cancel that uſurp'd Power and Authority of any Prince which is not directed by Law. And the ſame perſons cannot chooſe but know the Principles and Undertakings of King <hi>James,</hi> that he did utterly diſclaim ſuch a limited Power, as being inſufficient to anſwer his ends: And the Concluſion is contained in theſe <hi>ſelf-evident</hi> Premiſſes, That ſince he would not accept of ſuch a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er he could have no other Power or Authority, according to our Conſtitution; and conſequently he could be no legal or rightful King &amp; therefore his Title muſt be utterly <hi>null</hi> and <hi>void.</hi>
+            </p>
+            <p>That our Laws might make it appear <hi>more expreſly,</hi> that ſuch a perſon is uncapable of the Government, they have declared without all exception, That all ſuch as revolt to that Church, which is our profeſſed Enemy, ſhall be eſteem'd as Traytors and Outlaws. And it would be ſtrange, that any perſon ſhould be capable to become the Head of the Body Politick, who by ver<g ref="char:EOLhyphen"/>tue of thoſe Principles, was ſo utterly cut off from all ſhare of Communion and Society in it, that according to the ſenſe of our Laws, he became uncapable to enjoy any priviledge, as a common Member of it.</p>
+            <p>We ſee how excellently our Conſtitution is fram'd, which re<g ref="char:EOLhyphen"/>quires, that the Laws of God ſhould be apply'd to our particu<g ref="char:EOLhyphen"/>lar circumſtances; and as each Member is concern'd for the In<g ref="char:EOLhyphen"/>tereſt and Happineſs of that Society to which he appertains, ſo
+<pb n="10" facs="tcp:56576:7"/> they all are oblig'd, in their ſeveral ſtations, to maintain the ſame Government, for the honour of God, and the good of the People: and therefore, in caſes of extremity, they may uſe thoſe means which are neceſſary for that end.</p>
+            <p>If there had been no Law for that purpoſe, yet the Law of Nature gives every Regular Government a Right to defend it ſelf againſt all the p<gap reason="illegible" resp="#PDCC" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>d Enemies of it.</p>
+            <p>It is a Maxim of our Law, That the Laws of God and Nature ſhould take place before all other Laws. The ſame Law of Nature teaches, That he can never be capable to be the Head of any Society, who cannot imploy the proper Offices of the Head for their due Ends, but is oblig'd to pervert them to quite con<g ref="char:EOLhyphen"/>trary purpoſes; ſuch a Society is to all intents and purpoſes deſtitute of a Governour; when he who uſurps that place, neg<g ref="char:EOLhyphen"/>lects to afford thoſe neceſſary aſſiſtances that are due from him. But the caſe is yet far worſe, when ſuch an Enemy challenges the Power and Truſt, which belongs only to a Guardian and Father, who thinks it his Duty to ruine thoſe whom he ought to protect and defend.</p>
+            <p>Since therefore it appears, That there was an utter incapacity in the Perſon of the late King, to become the Legal Rightful King of this Realm, and ſuch an Incapacity as was grounded in the Laws of God and Nature, in the Fundamental and other Muni<g ref="char:EOLhyphen"/>cipal Laws of this Land. Hence it follows, That none of theſe Prerogatives, <hi>not to be reſiſted, not to forfeit,</hi> not to be <hi>depos'd,</hi> (which by the Laws of God and of this Land, do ſeem plainly to be annex'd to the perſons of all our True and Rightful Kings, acting legally, as the Church of <hi>England</hi> ever has and does ſtill teach) could any way in conſcience be accounted due to him, who did not only groſly abuſe, but quite endeavour'd to deſtroy the true Legal Power of an Engliſh Monarch. And therefore, ſo ſoon as his diſſembl'd incapacity was diſcovered, the Nullity of his Title might appear to have been from the Beginning. And conſequently, ſince there can be no <hi>Interregnum,</hi> the Right muſt deſcend to ſuch as were qualify'd according to Law, who with the Conſent of Parliament, may diſpoſe of the Regal Pow<g ref="char:EOLhyphen"/>er in ſuch manner, as might ſeem moſt uſeful for the publick Good. And if our Allegiance thus appear to be due to 'em, it ought to be declared in ſuch manner, and by ſuch Oaths as the Law appoints.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56576:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
